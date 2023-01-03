@@ -2,6 +2,7 @@
 layout: post
 title: Brand vs. Commoditisation
 slug: brand-vs-commoditisation
+image: /images/posts/stamp.png
 date_published: 2021-04-22T06:00:00.000Z
 date_updated: 2021-11-16T15:43:56.000Z
 tags: Marketing

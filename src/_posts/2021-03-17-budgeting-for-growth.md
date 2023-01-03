@@ -2,6 +2,7 @@
 layout: post
 title: Budgeting for Growth
 slug: budgeting-for-growth
+image: /images/posts/wallet.png
 date_published: 2021-03-17T11:58:48.000Z
 date_updated: 2021-03-17T11:58:48.000Z
 tags: Marketing

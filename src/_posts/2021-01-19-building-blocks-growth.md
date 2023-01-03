@@ -2,6 +2,7 @@
 layout: post
 title: Building Blocks of Growth
 slug: building-blocks-growth
+image: /images/posts/puzzle.png
 date_published: 2021-01-19T07:00:00.000Z
 date_updated: 2022-01-13T16:54:59.000Z
 tags: Marketing

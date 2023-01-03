@@ -2,6 +2,7 @@
 layout: post
 title: Choose Your Audience
 slug: choosing-target-audience
+image: /images/posts/lens.png
 date_published: 2021-02-10T06:58:00.000Z
 date_updated: 2022-01-13T17:14:08.000Z
 tags: Marketing

@@ -2,6 +2,7 @@
 layout: post
 title: Positioning
 slug: positioning
+image: /images/posts/cookie.png
 date_published: 2021-02-19T08:20:02.000Z
 date_updated: 2022-01-13T17:19:12.000Z
 tags: Marketing

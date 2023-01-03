@@ -2,6 +2,7 @@
 layout: post
 title: Setting Realistic Goals Using the Marketing Funnel
 slug: goalsetting-marketing-funnel
+image: /images/posts/funnel.png
 date_published: 2021-03-04T09:55:25.000Z
 date_updated: 2021-03-11T14:03:53.000Z
 tags: Marketing
