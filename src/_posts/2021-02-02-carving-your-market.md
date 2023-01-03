@@ -3,6 +3,7 @@ layout: post
 title: The Art of Carving Out Your Market
 slug: carving-your-market
 image: /images/posts/scalpel.png
+image_description: Illustration of a hand holding a scalpel
 date_published: 2021-02-02T08:15:00.000Z
 date_updated: 2022-01-13T17:09:58.000Z
 tags: Marketing

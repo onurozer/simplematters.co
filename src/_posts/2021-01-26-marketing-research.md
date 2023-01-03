@@ -3,6 +3,7 @@ layout: post
 title: Marketing Research
 slug: marketing-research
 image: /images/posts/telephone.png
+image_description: Illustration of an old school telephone handle with cable
 date_published: 2021-01-26T06:30:00.000Z
 date_updated: 2022-01-13T17:05:53.000Z
 tags: Marketing
