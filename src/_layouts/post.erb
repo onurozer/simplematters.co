@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<%= pluralize reading_time(page.content), "minute" %>
 <h1><%= resource.data.title %></h1>
 <img src="<%= relative_url resource.data.image %>" alt="<%= resource.data.image_description %>" />
 <%= yield %>
