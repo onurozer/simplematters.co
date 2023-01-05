@@ -5,7 +5,7 @@
   </head>
   <body class="text-lg antialiased text-gray-900">
     <%= render "header", metadata: site.metadata %>
-    <main class="">
+    <main class="container max-w-2xl mx-auto bg-gray-50">
       <%= yield %>
     </main>
     <%= render "footer", metadata: site.metadata %>
