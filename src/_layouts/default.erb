@@ -6,9 +6,9 @@
   <body class="text-lg antialiased text-gray-900">
     <div class="px-5">
       <%= render "header", metadata: site.metadata %>
-      <main class="container max-w-2xl mx-auto bg-gray-50">
+      <div class="container max-w-2xl mx-auto">
         <%= yield %>
-      </main>
+      </div>
       <%= render "footer", metadata: site.metadata %>
     </div>
   </body>

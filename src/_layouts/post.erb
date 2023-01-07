@@ -1,7 +1,16 @@
 ---
 layout: default
 ---
-<%= reading_time(page.content) %> minutes
-<h1><%= resource.data.title %></h1>
-<img src="<%= relative_url resource.data.image %>" alt="<%= resource.data.image_description %>" />
+<article>
+  <header class="text-center">
+    <div class="text-xs font-semibold text-center uppercase">
+      <time class="text-gray-500" datetime="<%= resource.date.strftime "%Y-%m-%d"%>"><%= resource.date.strftime "%b %d, %Y"%> &bull;</time>
+      <span class="text-gray-500"><%= reading_time(page.content) %> minutes &bull; </span>
+      <span class="text-red-500"><%= resource.data.tags.first %></span>
+    </div>
+    <h1 class="page-title"><%= resource.data.title %></h1>
+    <p class="text-xl"><%= resource.data.excerpt %></p>
+    <img src="<%= relative_url resource.data.image %>" alt="<%= resource.data.image_description %>" />
+  </header>
+</article>
 <%= yield %>

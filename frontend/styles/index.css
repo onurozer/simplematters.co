@@ -6,3 +6,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .page-title {
+    @apply py-6 text-6xl font-black text-center font-heading tracking-tight;
+  }
+}
