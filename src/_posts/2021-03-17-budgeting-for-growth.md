@@ -22,13 +22,21 @@ In the middle, there is everyone else allocating a fixed **% of their revenues**
 
 A realistic marketing budget should be based [realistic marketing goals](__GHOST_URL__/goalsetting-marketing-funnel/). Without the purchase funnel, budgets are destined to be arbitrary. Here are a few questions to help you find a realistic budget:
 
-**Do you really need a budget? **Paid advertising is one of the many tactical options for achieveing your goals. What are the others? Can you come up with creative solutions that don't require big budgets to execute? For a small business, advertising should serve to amplify organic growth, not substitute for it.
+### Do you really need a budget?
 
-**What's the impact of achieving your goals? **Let's say you managed to increased preference from 34% to 39%. How many additional purchases would that result in? What is the lifetime value of the new customers you would acquire? Setting a benchmark for success will help you understand how much value you create as a result of marketing, also known as return on investment.
+Paid advertising is one of the many tactical options for achieveing your goals. What are the others? Can you come up with creative solutions that don't require big budgets to execute? For a small business, advertising should serve to amplify organic growth, not substitute for it.
 
-**What's the minimum required budget to achieve your goals?**  Given your goals, what is the minimum realistic budget that you need? Look at industry benchmarks and talk to other startups and agencies who are good at buying media, and you will start to get a sense for the investment needed to move the needle.
+### What's the impact of achieving your goals?
 
-**What's your time horizon? **The higher up the funnel you go, the bigger the impact but the longer it will take to see any results. For example, increasing brand awareness will be effective but slow and expensive. Inversely, improving sales conversion will be quicker and cheaper but will have much smaller impact. Expecting short term results from long term investments often results in frustration. Make sure you set the right time horizon.
+Let's say you managed to increased preference from 34% to 39%. How many additional purchases would that result in? What is the lifetime value of the new customers you would acquire? Setting a benchmark for success will help you understand how much value you create as a result of marketing, also known as return on investment.
+
+### What's the minimum required budget to achieve your goals?
+
+Given your goals, what is the minimum realistic budget that you need? Look at industry benchmarks and talk to other startups and agencies who are good at buying media, and you will start to get a sense for the investment needed to move the needle.
+
+### What's your time horizon?
+
+The higher up the funnel you go, the bigger the impact but the longer it will take to see any results. For example, increasing brand awareness will be effective but slow and expensive. Inversely, improving sales conversion will be quicker and cheaper but will have much smaller impact. Expecting short term results from long term investments often results in frustration. Make sure you set the right time horizon.
 
 By combining creative thinking, incremental revenue, minimum required budget and a time horizon, you can start evaluating potential marketing activities as investments and your overall marketing efforts as a portfolio of calculated bets. This approach takes the guesswork out of budgeting, and protects you from the extremes.
 

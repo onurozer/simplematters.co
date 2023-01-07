@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-<h1 class="page-title"><%= resource.data.title %></h1>
-<div class="content">
-  <%= yield %>
+<div class="container max-w-2xl">
+  <article>
+    <header class="text-center">
+      <h1 class="page-title"><%= resource.data.title %></h1>
+    </header>
+    <main class="markdown">
+      <%= yield %>
+    </main>
+  </article>
 </div>

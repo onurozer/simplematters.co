@@ -6,6 +6,9 @@ module.exports = {
     "./frontend/javascript/**/*.js",
   ],
   theme: {
+    container: {
+      center: true,
+    },
     extend: {
       fontFamily: {
         sans: ["Manrope", ...defaultTheme.fontFamily.sans],
@@ -13,5 +16,5 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/typography")],
 };

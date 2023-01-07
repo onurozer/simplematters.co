@@ -2,10 +2,10 @@
   <nav>
     <ul class="flex flex-wrap font-normal gap-x-4">
       <li class="flex-shrink-0 "><a class="font-heading" href="/"><%= site.metadata.title %></a></li>
-      <li><a href="<%= relative_url '/articles' %>">Articles</a></li>
-      <li><a href="<%= relative_url '/podcast' %>">Podcast</a></li>
-      <li><a href="<%= relative_url '/consulting' %>">Consulting</a></li>
-      <li><a href="<%= relative_url '/about' %>">About</a></li>
+      <li><%= link_to "Articles", "articles.md" %></li>
+      <li><%= link_to "Podcast", "podcast.md" %></li>
+      <li><%= link_to "Consulting", "consulting.md" %></li>
+      <li><%= link_to "About", "about.md" %></li>
     </ul>
   </nav>
 </header>

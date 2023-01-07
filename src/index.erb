@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 layout: default
 ---
-<section class="mb-6">
+<section class="container max-w-2xl mb-6">
   <div class="">
     <a class="block w-24 mx-auto " href="/">
       <img src="<%= relative_url '/images/logo.svg' %>" alt="<%= "#{site.metadata.title} Logo" %>" />
@@ -15,15 +15,4 @@ layout: default
     </div>
   </div>
 </section>
-<main>
-  <ul>
-    <% collections.posts.resources.each do |post| %>
-      <li>
-        <article>
-          <a href="<%= post.relative_url %>"><%= post.data.title %></a>
-          <%= reading_time(post.content) %> minutes
-        </article>
-      </li>
-    <% end %>
-  </ul>
-</main>
+<%= render "articles"%>

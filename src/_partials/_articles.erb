@@ -1,0 +1,8 @@
+<section class="container flex flex-col max-w-3xl divide-y gap-y-3 not-prose article-list">
+  <% collections.posts.resources.each do |post| %>
+    <article class="flex items-center justify-between pt-3">
+      <a href="<%= post.relative_url %>"><%= post.data.title %></a>
+      <span class="text-xs text-gray-500"> <%= reading_time(post.content) %> min read</span>
+    </article>
+  <% end %>
+</section>
