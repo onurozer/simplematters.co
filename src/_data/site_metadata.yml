@@ -7,7 +7,9 @@
 title: Simple Matters
 tagline: Helping founders and marketers profitably grow their business.
 description: Helping founders and marketers profitably grow their business.
-social:
-  email: hello@simplematters.co
-  twitter: https://twitter.com/onurozer
-  linkedin: https://www.linkedin.com/in/onurozer/
+twitter:
+  username: simplemattersco
+  url: https://twitter.com/onurozer
+linkedin:
+  url: https://www.linkedin.com/in/onurozer/
+email: hello@simplematters.co
