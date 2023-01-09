@@ -39,7 +39,8 @@ end
 
 group :bridgetown_plugins do
   gem "bridgetown-seo-tag", "~> 5.0"
+  gem "bridgetown-plausible", "~> 1.1"
   # gem "bridgetown-sitemap", "~> 1.1"
-  # gem "bridgetown-plausible", "~> 1.0.2"
 end
+
 

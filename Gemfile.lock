@@ -44,6 +44,8 @@ GEM
       zeitwerk (~> 2.5)
     bridgetown-paginate (1.1.0)
       bridgetown-core (= 1.1.0)
+    bridgetown-plausible (1.1.0)
+      bridgetown (>= 0.16, < 2.0)
     bridgetown-seo-tag (5.0.0)
       bridgetown (>= 0.20.0, < 2.0)
     colorator (1.1.0)
@@ -149,6 +151,7 @@ PLATFORMS
 
 DEPENDENCIES
   bridgetown (~> 1.1.0)
+  bridgetown-plausible (~> 1.1)
   bridgetown-seo-tag (~> 5.0)
   puma (~> 5.6)
   rubocop
