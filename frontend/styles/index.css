@@ -9,9 +9,9 @@
 
 @layer components {
   .page-title {
-    @apply py-6 text-6xl font-black tracking-tight text-center font-heading;
+    @apply py-6 text-5xl font-black tracking-tight text-center sm:text-6xl font-heading;
   }
   .markdown {
-    @apply prose prose-lg text-gray-900 max-w-none prose-a:text-red-500 prose-a:no-underline prose-h2:tracking-tight prose-h2:font-bold prose-ul:pl-4 prose-ol:pl-4;
+    @apply prose text-gray-900 sm:prose-lg max-w-none prose-a:text-red-500 prose-a:no-underline prose-h2:tracking-tight prose-h2:font-extrabold prose-ul:pl-4 prose-ol:pl-4;
   }
 }

@@ -3,8 +3,8 @@
   <head>
     <%= render "head", metadata: site.metadata, title: resource.data.title %>
   </head>
-  <body class="text-lg antialiased text-gray-900">
-    <div class="px-5">
+  <body class="antialiased text-gray-900">
+    <div class="px-4 sm:px-5">
       <%= render "header", metadata: site.metadata %>
       <%= yield %>
       <%= render "footer", metadata: site.metadata %>
