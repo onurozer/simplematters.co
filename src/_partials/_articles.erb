@@ -1,5 +1,5 @@
 <section class="container flex flex-col max-w-3xl text-base divide-y dark:divide-gray-700 not-prose article-list">
-  <% collections.posts.resources.each do |post| %>
+  <% collections.posts.resources.sort.each do |post| %>
     <article class="relative flex items-center justify-between py-3 gap-x-3">
       <a class="truncate after:absolute after:inset-0" href="<%= post.relative_url %>"><%= post.data.title %></a>
       <span class="text-sm text-right text-gray-400 shrink-0"> <%= reading_time(post.content) %> min read</span>
