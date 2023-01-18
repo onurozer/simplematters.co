@@ -16,7 +16,7 @@ For a small company, trying to compete in a huge market can be a fatal mistake. 
 
 Targeting is ultimately a resource allocation problem. Which group of potential customers should you invest in attracting, given your business goals and time horizon?
 
-On the spectrum between targeting a single person vs. an entire population, it is your job to find a sweet spot where the target is small enough so that you can win, and big enough that [it makes sense to win](__GHOST_URL__/building-blocks-growth/).
+On the spectrum between targeting a single person vs. an entire population, it is your job to find a sweet spot where the target is small enough so that you can win, and big enough that <%= link_to "it makes sense to win", "\_posts/2021-01-19-building-blocks-growth.md" %>.
 
 Segmentation is a useful marketing tool that can help with that. The word "segmenting" means dividing something into parts. You can manage complexity and gain clarity by dividing a potential market it into smaller, manageable portions.
 
@@ -42,6 +42,6 @@ When you are segmenting your market, ask yourself these questions:
 - Do these segments sound natural?
 - Can you recognise customers or competitors in each segment?
 
-Consider [your market research.](__GHOST_URL__/marketing-research/) Use the insights from qualitative research to figure out your segmentation criteria, and your quantitative research to size and value each segment.
+Consider <%= link_to "your market research", "\_posts/2021-01-26-marketing-research.md" %>. Use the insights from qualitative research to figure out your segmentation criteria, and your quantitative research to size and value each segment.
 
 Segmentation is part of customer research. It is a useful tool to understand the landscape and customers in a market. It is an exercise to elevate your view and see the big picture, before you can make the decision on where to zoom in and focus.

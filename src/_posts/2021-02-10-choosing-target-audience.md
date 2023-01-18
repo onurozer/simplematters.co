@@ -24,8 +24,8 @@ Let's say you are a software company of four people. You have identified "Fortun
 
 Your goal should be to find the sweet spot of valuable customers whose needs align with your vision and capabilities, where you can deliver much higher value over your competition.
 
-Once you identify your target audience, make it tangible by **developing a user persona.** Using the [insights from your research](__GHOST_URL__/marketing-research/), write down a paragraph or two about a fictional person that paints the  picture of a customer in this target segment as vividly as possible:
+Once you identify your target audience, make it tangible by **developing a user persona.**. Using the <%= link_to "insights from your research", "\_posts/2021-01-26-marketing-research.md" %>, write down a paragraph or two about a fictional person that paints the  picture of a customer in this target segment as vividly as possible:
 
 Who are they? Where do they live? What are their aspirations? What does their typical day look like? What magazines do they read? What words do they use to talk about the problem you're solving? How do they solve the problem today? How do you anticipate that they will find out about you? Write it down.
 
-In the end, you will have a concrete idea about what your ideal customer looks like, instead of a [vague definition such as "millenials"](__GHOST_URL__/carving-your-market/). Getting targeting right forms the foundation of your marketing strategy and it is worth taking the time to do it right.
+In the end, you will have a concrete idea about what your ideal customer looks like, instead of a vague definition such as "millenials". Getting targeting right forms the foundation of your marketing strategy and it is worth taking the time to do it right.

@@ -20,7 +20,7 @@ In the middle, there is everyone else allocating a fixed **% of their revenues**
 
 ## A better way to set marketing budgets
 
-A realistic marketing budget should be based [realistic marketing goals](__GHOST_URL__/goalsetting-marketing-funnel/). Without the purchase funnel, budgets are destined to be arbitrary. Here are a few questions to help you find a realistic budget:
+A realistic marketing budget should be based <%= link_to "realistic marketing goals", "\_posts/2021-03-04-goalsetting-marketing-funnel.md" %>. Without the purchase funnel, budgets are destined to be arbitrary. Here are a few questions to help you find a realistic budget:
 
 ### Do you really need a budget?
 

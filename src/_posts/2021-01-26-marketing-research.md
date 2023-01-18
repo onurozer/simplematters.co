@@ -10,7 +10,7 @@ tags: Marketing
 excerpt: Remember, your goal is to learn. Listen more than you talk. Don't pitch your products, don't sell your services.
 ---
 
-Research is the [first step in growth](__GHOST_URL__/building-blocks-growth/). Research paints a picture of the market. It helps you to understand your customers. Ultimately it provides the insights you need to develop your marketing strategy.
+Research is the <%= link_to "first step in growth", "\_posts/2021-01-19-building-blocks-growth.md" %>. Research paints a picture of the market. It helps you to understand your customers. Ultimately it provides the insights you need to develop your marketing strategy.
 
 The crucial part of marketing research is figuring out the question you want to answer. Why do some customers upgrade but others stay at the free plan? How do you expand into a new market where you have no presence in?
 
@@ -55,12 +55,12 @@ Start with insights you've gained from your interviews. Try to visualise how you
 
 No one likes surveys, especially long ones. Keep it to a maximum of 15 questions. You can use [Google Forms](https://www.google.com/forms/) or [Typeform](https://www.typeform.com) to help with your survey. Great survey design is an art and science on its own, but here are a few great questions to consider:
 
-- **Who are you? **Think age group, city, industry, etc.
+- **Who are you?** Think age group, city, industry, etc.
 - **How important is (feature) for you?** Using a [likert scale](https://en.wikipedia.org/wiki/Likert_scale) helps you get a measurable score for customer attitudes.
 - **How many hours a week do you spend on (solving problem)?** This is a great behavioural question to gauge how important the problem is to them.
 - **How much do you spend on (category) per month in total**? The answer helps to evaluate total market $ value.
 - **What helped you make the decision purchase our (product)?** Ask to select an option from a list, but also provide a free-text option.
-- **How likely are you to recommend our (product) to a friend?**[NPS](https://en.wikipedia.org/wiki/Net_Promoter) is not particularly useful as a standalone data point, but the scores can help to spot trends or potential problems over time.
+- **How likely are you to recommend our (product) to a friend?** [NPS](https://en.wikipedia.org/wiki/Net_Promoter) is not particularly useful as a standalone data point, but the scores can help to spot trends or potential problems over time.
 
 People don't always do what they say. If you ask whether they care about the environment, most people will say yes. If you look at how often they do recycling or pay extra for reusable packaging, you might get a very different picture. Avoid asking leading questions in surveys and always correlate their answers with their behaviours.
 
@@ -72,7 +72,7 @@ Website analytics data, heat maps, conversion rates, sales funnels, email open r
 
 Your market is anyone who has the potential to become your customer. There are three questions that are important to understand with market research: the size of the population, the total $ value of the market and your % share of that value.
 
-You can conduct this research with help from a research agency or on your own by using a platform such as [YouGov](__GHOST_URL__/p/8a23b483-b6c3-4234-af51-70028ce90a8c/yougov.com/). However, for most startups and small businesses, market surveys can be prohibitively costly. Here are some alternatives:
+You can conduct this research with help from a research agency or on your own by using a platform such as [YouGov](https://www.yougov.com/). However, for most startups and small businesses, market surveys can be prohibitively costly. Here are some alternatives:
 
 ### Industry Reports
 

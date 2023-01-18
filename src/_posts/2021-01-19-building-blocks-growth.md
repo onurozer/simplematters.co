@@ -20,7 +20,7 @@ Strategy is about making choices. It is about figuring out [where to play and ho
 
 Developing a good strategy is difficult because [it requires sacrifice](https://www8.gsb.columbia.edu/articles/ideas-work/strategy-art-sacrifice). It demands hard decisions about what to do but also what to avoid. The tactics follow the strategy.
 
-Take [TransferWise](https://transferwise.com/) for example. They target people and businesses who need to transfer money overseas (where to play). Unlike traditional banks, their strategy is being [transparent, cheap and fast](https://transferwise.com/community/mission-and-philosophy) (how to win).
+For example, take [TransferWise](https://transferwise.com/). They target people and businesses who need to transfer money overseas (where to play). Unlike traditional banks, their strategy is being [transparent, cheap and fast](https://transferwise.com/community/mission-and-philosophy) (how to win).
 
 This in turn informs the tactical decisions they make, such as:
 
