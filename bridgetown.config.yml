@@ -23,6 +23,3 @@ timezone: Asia/Singapore
 
 permalink: simple
 template_engine: erb
-
-plausible:
-  domain: simplematters.co

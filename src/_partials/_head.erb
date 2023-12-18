@@ -8,6 +8,8 @@
 <!-- Stylesheets -->
 <link rel="stylesheet" href="<%= webpack_path :css %>" />
 <!-- Analytics -->
-<%= plausible %>
+<% if Bridgetown.env.production? %>
+  <script defer data-domain="simplematters.co" src="https://plausible.io/js/script.js"></script>
+<% end %>
 <script src="<%= webpack_path :js %>" defer></script>
 <%= live_reload_dev_js %>
