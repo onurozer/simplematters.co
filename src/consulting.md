@@ -11,4 +11,4 @@ I work directly with founders and marketers to help them grow their business:
 
 A typical engagement takes about 4 weeks, about 6 hours per week. After working together, you will gain clarity on how to grow your business, and walk away with a strategy backed by decades of marketing research and real-world experience. No glossy decks and fluff, just solid insights and actionable next steps.
 
-Sounds good? Let's have a chat! Email me [hello@simplematters.co](mailto:hello@simplematters.co) or connect with me on [Twitter](https://twitter.com/onurozer) or [Linkedin](https://www.linkedin.com/in/onurozer/).
+Sounds good? Let's have a chat! Email me [<%= site.metadata.email %>](mailto:<%= site.metadata.email %>) or connect with me on [LinkedIn](<%= site.metadata.linkedin.url %>) or [Mastodon](<%= site.metadata.mastodon.url %>).
