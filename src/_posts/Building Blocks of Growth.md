@@ -1,12 +1,9 @@
 ---
-layout: post
-title: Building Blocks of Growth
 slug: building-blocks-growth
-image: /images/posts/puzzle.png
+image: /attachments/puzzle.png
 image_description: Illustration of three interlocked puzzle pieces
-date_published: 2021-01-19T07:00:00.000Z
-date_updated: 2022-01-13T16:54:59.000Z
-tags: Marketing
+date: 2021-01-19
+tags: marketing
 excerpt: "Great marketing has three core components: research, strategy and execution."
 ---
 

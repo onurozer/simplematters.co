@@ -1,12 +1,8 @@
 ---
-layout: post
-title: Marketing 101
-slug: marketing-101
-image: /images/posts/glue.png
+image: /attachments/glue.png
 image_description: Illustration of glue
-date_published: 2021-01-13T11:30:00.000Z
-date_updated: 2022-01-13T16:53:41.000Z
-tags: Marketing
+date: 2021-01-13
+tags: marketing
 excerpt: What's the role of marketing? Depends on who you ask.
 ---
 

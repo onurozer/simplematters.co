@@ -1,12 +1,8 @@
 ---
-layout: post
-title: Budgeting for Growth
-slug: budgeting-for-growth
-image: /images/posts/wallet.png
+image: /attachments/wallet.png
 image_description: Illustration of a fat wallet overflowing with cash
-date_published: 2021-03-17T11:58:48.000Z
-date_updated: 2021-03-17T11:58:48.000Z
-tags: Marketing
+date: 2021-03-17
+tags: marketing
 excerpt: A realistic marketing budget should be based realistic marketing goals. Without the purchase funnel, budgets are destined to be arbitrary.
 ---
 
@@ -20,7 +16,7 @@ In the middle, there is everyone else allocating a fixed **% of their revenues**
 
 ## A better way to set marketing budgets
 
-A realistic marketing budget should be based <%= link_to "realistic marketing goals", "\_posts/2021-03-04-goalsetting-marketing-funnel.md" %>. Without the purchase funnel, budgets are destined to be arbitrary. Here are a few questions to help you find a realistic budget:
+A realistic marketing budget should be based on [[Setting Realistic Goals Using the Marketing Funnel|realistic marketing goals]]. Without the purchase funnel, budgets are destined to be arbitrary. Here are a few questions to help you find a realistic budget:
 
 ### Do you really need a budget?
 

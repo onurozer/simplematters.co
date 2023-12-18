@@ -1,12 +1,9 @@
 ---
-layout: post
-title: Brand vs. Commoditisation
 slug: brand-vs-commoditisation
-image: /images/posts/stamp.png
+image: /attachments/stamp.png
 image_description: Illustration of a stamp with the word brand
-date_published: 2021-04-22T06:00:00.000Z
-date_updated: 2021-11-16T15:43:56.000Z
-tags: Marketing
+date: 2021-04-22
+tags: marketing
 excerpt: How do you truly differentiate your products when technology levels the playground and democratises innovation for everyone?
 ---
 
@@ -20,6 +17,6 @@ The answer lies in the brand. A brand is a mental shortcut that helps people  c
 
 Most startup founders consider brand to be a glorified logo at worst, and an expensive outdoor campaign at best. Sure, a great logo or a big advertising campaign might help, but a brand is much more than that.  It is a promise you make to consumers, and the value of your brand is how well you fulfill that promise.
 
-Brands create [irrational margins](https://www.strategyandsourdough.com/episodes/startup-brand-with-oliver-lo-vp-marketing-at-sequoia-capital), which provides the fuel for growth. Great brands are built by having a meaning and being consistent. As a founder building a brand, first you have to decide what your company stands for, and then you have to deliver on that promise in every interaction with your consumers consistently for years. That's it, that's all there is to it.
+Brands create [irrational margins](https://www.strategyandsourdough.com/episodes/brand-as-irrational-margins-wi), which provides the fuel for growth. Great brands are built by having a meaning and being consistent. As a founder building a brand, first you have to decide what your company stands for, and then you have to deliver on that promise in every interaction with your consumers consistently for years. That's it, that's all there is to it.
 
 Investing in building your brand is your biggest weapon in the fight against commoditisation and the right time to start is now.

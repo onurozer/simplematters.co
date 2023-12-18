@@ -1,12 +1,9 @@
 ---
-layout: post
-title: Setting Realistic Goals Using the Marketing Funnel
 slug: goalsetting-marketing-funnel
-image: /images/posts/funnel.png
+image: /attachments/funnel.png
 image_description: Illustration of a funnel
-date_published: 2021-03-04T09:55:25.000Z
-date_updated: 2021-03-11T14:03:53.000Z
-tags: Marketing
+date: 2021-03-04
+tags: marketing
 excerpt: A good marketing funnel turns your marketing strategy from a wish list into a to do list.
 ---
 
@@ -14,7 +11,7 @@ excerpt: A good marketing funnel turns your marketing strategy from a wish list 
 
 A funnel is a visualisation of a customer's journey from finding out about the product for the first time to ideally becoming an advocate for the brand. Customers don't always follow predetermined, concrete steps on their path to purchase, but the funnel is still a useful framework to understand the most common steps they take.
 
-A good funnel makes your <%= link_to "marketing strategy", "\_posts/2021-01-19-building-blocks-growth.md" %> tangible. It converts your strategy from a wishlist into a todo list.
+A good funnel makes your [[Building Blocks of Growth|marketing strategy]] tangible. It converts your strategy from a wishlist into a todo list.
 
 ## Defining the steps
 
@@ -28,7 +25,7 @@ Another way to think of funnels is as [state change in software development](<ht
 
 ## Getting the numbers
 
-Now that you know what your steps are, it's time to measure them. Start at the top: how many potential customers are there <%= link_to "in your target audience", "\_posts/2021-02-10-choosing-target-audience.md"%>? How many of them are familiar with your brand? How many are actively considering it? How many have indicated an interest in making a purchase? How many have completed a purchase online or offline? Get the data for each step.
+Now that you know what your steps are, it's time to measure them. Start at the top: how many potential customers are there in your [[Choose Your Audience|target audience]]? How many of them are familiar with your brand? How many are actively considering it? How many have indicated an interest in making a purchase? How many have completed a purchase online or offline? Get the data for each step.
 
 Then, elaborate on what each step means and how to measure that. For example, awareness could be measured by a survey: how many people mention your brand when asked about bicycle brands they remember? Consideration might mean having visited your website at least 3 times in the past 30 days. Decide what makes sense for your business.
 
@@ -53,4 +50,4 @@ Armed with the numbers from your funnel, set a realistic target and a time-frame
 
 Finally, calculate the incremental revenue and profitability of achieving your goals. This will give you a clear idea of how much you can effort to spend for each goal.
 
-In the end, you will end up with a handful, clearly defined marketing goals for a <%= link_to "specific target audience", "\_posts/2021-02-10-choosing-target-audience.md"%> that's based on <%= link_to "market research", "\_posts/2021-01-26-marketing-research.md" %>. Congratulations!
+In the end, you will end up with a handful, clearly defined marketing goals for a [[Choose Your Audience|specific target audience]] that's based on [[Marketing Research|market research]]. Congratulations!

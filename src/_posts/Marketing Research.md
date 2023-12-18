@@ -1,16 +1,12 @@
 ---
-layout: post
-title: Marketing Research
-slug: marketing-research
-image: /images/posts/telephone.png
+image: /attachments/telephone.png
 image_description: Illustration of an old school telephone handle with cable
-date_published: 2021-01-26T06:30:00.000Z
-date_updated: 2022-01-13T17:05:53.000Z
-tags: Marketing
+date: 2021-01-26
+tags: marketing
 excerpt: Remember, your goal is to learn. Listen more than you talk. Don't pitch your products, don't sell your services.
 ---
 
-Research is the <%= link_to "first step in growth", "\_posts/2021-01-19-building-blocks-growth.md" %>. Research paints a picture of the market. It helps you to understand your customers. Ultimately it provides the insights you need to develop your marketing strategy.
+Research is the [[Building Blocks of Growth|first step in growth]]. Research paints a picture of the market. It helps you to understand your customers. Ultimately it provides the insights you need to develop your marketing strategy.
 
 The crucial part of marketing research is figuring out the question you want to answer. Why do some customers upgrade but others stay at the free plan? How do you expand into a new market where you have no presence in?
 
@@ -96,4 +92,4 @@ Tools such as [Ahrefs](https://ahrefs.com/) and [SEMRush](https://www.semrush.co
 
 ## Summary
 
-[Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis) can be a problem, but underestimating the importance of research is a bigger problem. Always start with research and give it the time and attention it deserves. It will save you countless hours and frustration on your journey to growth. For more in-depth discussion, tips and techniques, check out the [Customer Research Episode](https://www.strategyandsourdough.com/episodes/research) on Strategy & Sourdough.
+[Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis) can be a problem, but underestimating the importance of research is a bigger problem. Always start with research and give it the time and attention it deserves. It will save you countless hours and frustration on your journey to growth. For more in-depth discussion, tips and techniques, check out the [Customer Research Episode](https://www.strategyandsourdough.com/episodes/customer-research-tips-techniq) on Strategy & Sourdough.

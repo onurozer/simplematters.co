@@ -1,12 +1,9 @@
 ---
-layout: post
-title: Choose Your Audience
 slug: choosing-target-audience
-image: /images/posts/lens.png
+image: /attachments/lens.png
 image_description: Illustration of a camera lens
-date_published: 2021-02-10T06:58:00.000Z
-date_updated: 2022-01-13T17:14:08.000Z
-tags: Marketing
+date: 2021-02-10
+tags: marketing
 excerpt: Choosing is uncomfortable, because by definition making a choice means sacrificing others options.
 ---
 
@@ -24,7 +21,7 @@ Let's say you are a software company of four people. You have identified "Fortun
 
 Your goal should be to find the sweet spot of valuable customers whose needs align with your vision and capabilities, where you can deliver much higher value over your competition.
 
-Once you identify your target audience, make it tangible by **developing a user persona.**. Using the <%= link_to "insights from your research", "\_posts/2021-01-26-marketing-research.md" %>, write down a paragraph or two about a fictional person that paints the  picture of a customer in this target segment as vividly as possible:
+Once you identify your target audience, make it tangible by **developing a user persona.**. Using the [[Marketing Research|insights from your research]], write down a paragraph or two about a fictional person that paints the  picture of a customer in this target segment as vividly as possible:
 
 Who are they? Where do they live? What are their aspirations? What does their typical day look like? What magazines do they read? What words do they use to talk about the problem you're solving? How do they solve the problem today? How do you anticipate that they will find out about you? Write it down.
 

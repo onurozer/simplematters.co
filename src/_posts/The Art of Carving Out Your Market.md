@@ -1,12 +1,9 @@
 ---
-layout: post
-title: The Art of Carving Out Your Market
 slug: carving-your-market
-image: /images/posts/scalpel.png
+image: /attachments/scalpel.png
 image_description: Illustration of a hand holding a scalpel
-date_published: 2021-02-02T08:15:00.000Z
-date_updated: 2022-01-13T17:09:58.000Z
-tags: Marketing
+date: 2021-02-02
+tags: marketing
 excerpt: The most important decision you need to make before you cut, is where to cut.
 ---
 
@@ -16,7 +13,7 @@ For a small company, trying to compete in a huge market can be a fatal mistake. 
 
 Targeting is ultimately a resource allocation problem. Which group of potential customers should you invest in attracting, given your business goals and time horizon?
 
-On the spectrum between targeting a single person vs. an entire population, it is your job to find a sweet spot where the target is small enough so that you can win, and big enough that <%= link_to "it makes sense to win", "\_posts/2021-01-19-building-blocks-growth.md" %>.
+On the spectrum between targeting a single person vs. an entire population, it is your job to find a sweet spot where the target is small enough so that you can win, and big enough that it makes sense to win.
 
 Segmentation is a useful marketing tool that can help with that. The word "segmenting" means dividing something into parts. You can manage complexity and gain clarity by dividing a potential market it into smaller, manageable portions.
 
@@ -42,6 +39,6 @@ When you are segmenting your market, ask yourself these questions:
 - Do these segments sound natural?
 - Can you recognise customers or competitors in each segment?
 
-Consider <%= link_to "your market research", "\_posts/2021-01-26-marketing-research.md" %>. Use the insights from qualitative research to figure out your segmentation criteria, and your quantitative research to size and value each segment.
+Consider [[Marketing Research|your market research]]. Use the insights from qualitative research to figure out your segmentation criteria, and your quantitative research to size and value each segment.
 
 Segmentation is part of customer research. It is a useful tool to understand the landscape and customers in a market. It is an exercise to elevate your view and see the big picture, before you can make the decision on where to zoom in and focus.

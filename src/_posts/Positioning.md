@@ -1,12 +1,8 @@
 ---
-layout: post
-title: Positioning
-slug: positioning
-image: /images/posts/cookie.png
+image: /attachments/cookie.png
 image_description: Illustration of a chocolate chip cookie
-date_published: 2021-02-19T08:20:02.000Z
-date_updated: 2022-01-13T17:19:12.000Z
-tags: Marketing
+date: 2021-02-19
+tags: marketing
 excerpt: '"Give me six hours to chop down a tree and I will spend the first four sharpening the ax." –Abraham Lincoln'
 ---
 
@@ -32,7 +28,7 @@ Let's say you sell chocolate chip cookies. How do you position it?
 - A vegan product that's better for the environment while being lower in calories?
 - A force for change in the world through sustainably sourced ingredients and a donation program with 5% of profits going to cocoa farmers?
 
-Each of these choices would require a different set of tactical decisions, such as which ingredients to use, how much to charge, where the cookies are sold and how they are marketed. This is why positioning is at the <%= link_to "core of marketing strategy", "\_posts/2021-01-19-building-blocks-growth.md" %>, it sets the foundation on how you plan to grow.
+Each of these choices would require a different set of tactical decisions, such as which ingredients to use, how much to charge, where the cookies are sold and how they are marketed. This is why positioning is at the core of [[Building Blocks of Growth|marketing strategy]], it sets the foundation on how you plan to grow.
 
 ## Great positioning is simple
 
@@ -52,6 +48,6 @@ A good positioning addresses who the product is for, what problem it solves and 
 2. **Why does your product solve these problems better than competing alternatives?** It could be superior technology, in-depth insights, sustainable practices, anything that sets you apart.
 3. **Who are the customers that care most about your unique way of solving these problems?** Your solution might be faster, but not all customers care about speed.
 
-When you look at the answers, you will start to see themes emerge. Use these themes as the basis of your positioning. It could be a few words, a sentence or a paragraph, the format itself is not important. What's important is: can your entire company rally behind this positioning? Can you use this positioning as the <%= link_to "glue to bind", "\_posts/2021-01-13-marketing-101.md" %> your product, pricing, distribution and marketing communications together?
+When you look at the answers, you will start to see themes emerge. Use these themes as the basis of your positioning. It could be a few words, a sentence or a paragraph, the format itself is not important. What's important is: can your entire company rally behind this positioning? Can you use this positioning as the [[Marketing 101|glue to bind]] your product, pricing, distribution and marketing communications together?
 
 Positioning is the backbone of a sound marketing strategy and it's essential to get this right. Include your whole team in the process and take your time. Focus on customer perceptions. Once you know what you want your product to stand for, ruthlessly sharpen and simplify your message as this is your only chance to be remembered the way you want to, if remembered at all.
