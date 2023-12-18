@@ -19,7 +19,7 @@ I occasionally write about marketing and tech. <%= link_to "Read the articles he
 
 ## Podcast
 
-During the pandemic, I co-hosted the startup growth podcast <%= link_to "Strategy & Sourdough.", "https://www.strategyandsourdough.com" %>. Each episode explores how startups can achieve profitable growth and build lasting brands.
+During the pandemic, I co-hosted the startup growth podcast <%= link_to "Strategy & Sourdough", "https://www.strategyandsourdough.com" %>. Each episode explores how startups can achieve profitable growth and build lasting brands.
 
 ## Consulting
 
