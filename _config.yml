@@ -1,0 +1,51 @@
+title: "Simple Matters" # the name of your site, e.g. ACME Corp.
+tagline: Helping founders and marketers profitably grow their business.
+description: Helping founders and marketers profitably grow their business.
+url: "https://simplematters.co" # the base hostname & protocol for your site, e.g. http://example.com
+
+timezone: Asia/Singapore
+
+author:
+  name: Onur Ozer
+  twitter: onurozer
+
+twitter:
+  username: simplemattersco
+
+permalink: /:title/
+
+# plugins:
+#   - jekyll-inline-svg
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+exclude:
+  - README.md
+  - package-lock.json
+  - postcss.config.js
+  - tailwind.config.js
+
+defaults:
+  - scope:
+      path: _pages/
+    values:
+      layout: default
+  - scope:
+      path: _posts/
+    values:
+      layout: post
+      # author: Onur Ozer
+  # - scope:
+  #     path: ""
+  #   values:
+  #     image: /assets/images/open-graph/default.png
+
+# Make live reloading of css work by rebuilding the css everytime there's a change
+postcss:
+  cache: false
+# postcss:
+#   script: node_modules/.bin/postcss
+#   config: postcss.config.js

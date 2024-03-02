@@ -1,0 +1,14 @@
+{% comment %}
+{% endcomment %}
+{% assign posts = site.posts | sort: "date"  %}
+
+<section class="container flex flex-col max-w-3xl text-base divide-y dark:divide-gray-700 not-prose article-list">
+
+{% for post in posts %}
+  <article class="relative flex items-center justify-between py-3 gap-x-3">
+    <a class="truncate after:absolute after:inset-0" href="{{ post.url }}">{{ post.title }}</a>
+      {% assign words = post.content | number_of_words %}
+      <span class="text-sm text-right text-gray-400 shrink-0"> {% include reading_time.liquid words=words %} read</span>
+  </article>    
+{% endfor %}  
+</section>

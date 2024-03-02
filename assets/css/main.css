@@ -1,0 +1,15 @@
+---
+---
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .page-title {
+    @apply py-6 text-5xl font-black tracking-tight text-center sm:text-6xl font-heading;
+  }
+  .markdown {
+    @apply prose text-gray-900 dark:text-gray-100 dark:prose-h2:text-gray-100 dark:prose-h3:text-gray-100 dark:prose-strong:text-gray-100 sm:prose-lg max-w-none prose-a:text-red-500 prose-a:no-underline dark:prose-a:text-red-400 prose-h2:tracking-tight prose-h2:font-extrabold prose-ul:pl-4 prose-ol:pl-4;
+  }
+}

@@ -1,0 +1,11 @@
+<header class="flex justify-center py-6 mb-8">
+  <nav>
+    <ul class="flex flex-wrap justify-center font-normal gap-x-4">
+      <li class="shrink-0"><a class="font-heading" href="/">{{ site.title }}</a></li>
+      <li><a href="/articles" class="{% if page.slug == "articles" or page.layout == "post" %}{% endif %}">Articles</a></li>
+      <li><a href="/podcast" class="{% if page.slug == "podcast" %}{% endif %}">Podcast</a></li>
+      <li><a href="/consulting" class="{% if page.slug == "consulting" %}{% endif %}">Consulting</a></li>
+      <li><a href="/about" class="{% if page.slug == "about" %}{% endif %}">About</a></li>
+  </ul>
+  </nav>
+</header>
