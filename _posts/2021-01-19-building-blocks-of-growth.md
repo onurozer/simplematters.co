@@ -4,8 +4,8 @@ slug: building-blocks-growth
 image: puzzle.png
 image_description: Illustration of three interlocked puzzle pieces
 tags:
+  - strategy
   - marketing
-  - growth
 excerpt: "Great marketing has three core components: research, strategy and execution."
 ---
 

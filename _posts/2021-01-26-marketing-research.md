@@ -2,8 +2,10 @@
 title: Marketing Research
 image: telephone.png
 image_description: Illustration of an old school telephone handle with cable
-tags: marketing
-excerpt: Remember, your goal is to learn. Listen more than you talk. Don't pitch your products, don't sell your services.
+tags: 
+  - research
+  - marketing
+excerpt: Analysis paralysis can be a problem, but underestimating research is a bigger problem.
 ---
 
 Research is the [first step in growth]({% link _posts/2021-01-19-building-blocks-of-growth.md %}). It paints a picture of the market. It helps you to understand your customers. Ultimately it provides the insights you need to develop your marketing strategy.

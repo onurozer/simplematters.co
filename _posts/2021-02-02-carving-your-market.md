@@ -3,7 +3,9 @@ title: Carving Out Your Market
 slug: carving-your-market
 image: scalpel.png
 image_description: Illustration of a hand holding a scalpel
-tags: marketing
+tags: 
+  - segmentation
+  - marketing
 excerpt: The most important decision you need to make before you cut, is where to cut.
 ---
 

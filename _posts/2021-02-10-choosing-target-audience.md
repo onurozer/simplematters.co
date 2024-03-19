@@ -3,7 +3,9 @@ title: Choosing Your Audience
 slug: choosing-target-audience
 image: lens.png
 image_description: Illustration of a camera lens
-tags: marketing
+tags: 
+  - targeting
+  - marketing
 excerpt: Picking the wrong target audience is a costly mistake, but not picking a target is worse.
 ---
 

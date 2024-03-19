@@ -3,7 +3,9 @@ title: Brand vs. Commodities
 slug: brand-vs-commodities
 image: stamp.png
 image_description: Illustration of a stamp with the word brand
-tags: marketing
+tags: 
+  - branding
+  - marketing
 excerpt: How do you truly differentiate your products when technology levels the playground for everyone?
 ---
 

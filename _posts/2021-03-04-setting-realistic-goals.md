@@ -3,7 +3,9 @@ title: Setting Realistic Goals
 slug: setting-realistic-goals
 image: funnel.png
 image_description: Illustration of a funnel
-tags: marketing
+tags: 
+  - growth
+  - marketing
 excerpt: A good marketing funnel turns your marketing strategy from a wish list into a to do list.
 ---
 

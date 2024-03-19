@@ -2,7 +2,9 @@
 title: Positioning
 image: cookie.png
 image_description: Illustration of a chocolate chip cookie
-tags: marketing
+tags: 
+  - positioning
+  - marketing
 excerpt: '"Give me six hours to chop down a tree and I will spend the first four sharpening the ax." –Abraham Lincoln'
 ---
 
