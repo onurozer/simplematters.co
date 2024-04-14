@@ -21,9 +21,9 @@ I've written about 5000 words on marketing and growth. [Read the articles here](
 
 In 2021, I co-hosted the startup growth podcast [Strategy & Sourdough](https://www.strategyandsourdough.com). In each episode we explore how startups can achieve profitable growth and build lasting brands.
 
-## Consulting
+## Work
 
-I work with founders and marketers to help them grow their business. [Find out how]({% link _pages/consulting.md %}).
+I work with founders and marketers to help them grow their business. [Find out how]({% link _pages/work.md %}).
 
 
 ## Contact
