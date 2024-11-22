@@ -25,6 +25,6 @@ In 2021, I co-hosted the startup growth podcast [Strategy & Sourdough](https://w
 
 I work with founders and marketers to help them grow their business. [Find out how]({% link _pages/work.md %}).
 
-
 ## Contact
-You can email me [hello@simplematters.co](mailto:hello[at]simplematters[dot]co) or connect with me on [Twitter]({{ site.data.socials[0].href }}) or [LinkedIn]({{ site.data.socials[1].href }}).
+
+You can email me [hello@simplematters.co](mailto:hello[at]simplematters[dot]co) or connect with me on [Bluesky]({{ site.data.socials[0].href }}) or [LinkedIn]({{ site.data.socials[1].href }}).

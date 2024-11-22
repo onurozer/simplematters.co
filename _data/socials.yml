@@ -1,8 +1,8 @@
-- name: twitter
+- name: bluesky
   handle: onurozer
-  title: Follow Onur on Twitter
-  href: https://twitter.com/onurozer
-  icon: twitter.svg
+  title: Follow Onur on Bluesky
+  href: https://bsky.app/profile/onurozer.me
+  icon: bluesky.svg
 
 - name: linkedin
   handle: onurozer
@@ -15,9 +15,3 @@
   title: Follow Onur on GitHub
   href: https://github.com/onurozer
   icon: github.svg
-
-- name: mastodon
-  handle: onurozer
-  title: Follow Onur on Mastodon
-  href: https://ruby.social/@onurozer
-  icon: mastodon.svg
